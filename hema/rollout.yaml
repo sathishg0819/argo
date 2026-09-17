@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: cont1
-        image: httpd:latest
+        image: nginx:latest
         ports:
         - containerPort: 80
 
