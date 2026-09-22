@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
       - name: cont1
-        image: 214434260312.dkr.ecr.us-east-1.amazonaws.com/sathu:52
+        image: 214434260312.dkr.ecr.us-east-1.amazonaws.com/sathu:53
         ports:
         - containerPort: 80
